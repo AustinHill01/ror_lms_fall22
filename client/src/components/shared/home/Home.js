@@ -1,5 +1,5 @@
 import HomeHeader from "./HomeHeader";
-import Features from "../users/Features";
+import Features from "./Features";
 import Team from './Team';
 
 const Home = () => (
